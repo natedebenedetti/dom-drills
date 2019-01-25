@@ -21,3 +21,8 @@
 .h6 {
     color: red;
 }
+
+.noSelect { 
+    user-select: none;
+}
+
